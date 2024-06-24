@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.MuiDropzoneArea-root {
+	background-color: transparent !important;
+	border-color: #180f0f !important;
+}
+.MuiDropzoneArea-text, .MuiDropzoneArea-icon {
+  color:#008006 !important;
+  font-weight: bold !important;
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+}
+
+.MuiDropzoneArea-root{
+	padding: 3px;
+	min-height: 340px !important;
+	padding-top: 30% !important;
+}
+
+.makeStyles-imageCard-33{
+	height:50px !important;
+}
+.makeStyles-imageCard-8{
+	min-width: 500px !important;
+	height: fit-content !important;
+	align-items: center;
+}
+
+.makeStyles-buttonGrid-21{
+	margin: auto !important;
+	max-width: 250px !important;
+}
+
+.makeStyles-mainContainer-128{
+	background-repeat: repeat !important;
+}
+
+.makeStyles-gridContainer-6{
+	justify-content: space-around !important;
+}
+
+.MuiGrid-container{
+	flex-wrap: nowrap !important;
+}
+
+.MuiGrid-grid-xs-12{
+	max-width: 500px !important;
+	/* background-color: white !important; */
+}
+
+.MuiGrid-spacing-xs-2 > .MuiGrid-item{
+	height: 570px !important;
+	width: 600px !important;
+	margin-top: 50px;
+}
+
+.MuiCardContent-root{
+	padding: 5px !important;
+}
+.makeStyles-tableBody-19{
+	font-size: 15px;
+}
+.makeStyles-media-77{
+	height: 300px !important;
+}
